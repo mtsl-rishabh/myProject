@@ -1,1 +1,5 @@
 This is content of 2nd file
+
+Added content in 2ndFile in FirstndBranch
+
+Added content in 2ndFile in 2ndBranch
